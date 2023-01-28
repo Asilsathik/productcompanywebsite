@@ -584,15 +584,15 @@ products.html
 ```
 
 ## output
-![output](b2.png)
-![output](b3.png)
-![output](b4.png)
-![output](b5.png)
-![output](b9.png)
+![output](b.png)
+![output](c.png)
+![output](d.png)
+![output](e.png)
+![output](f.png)
 
 ### Home Page:
 
-![output](b1.png)
+![output](a.png)
 
 ## Result:
 
